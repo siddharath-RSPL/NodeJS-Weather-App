@@ -1,9 +1,5 @@
-console.log("client side page loaded !");
-
 // tempalate engine used to render dynamic web page with the help of express
 // with the help of headlebars easily load content dynamically
-
-
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input'); 
